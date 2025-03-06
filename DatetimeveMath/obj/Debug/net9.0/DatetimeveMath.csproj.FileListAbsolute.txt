@@ -1,0 +1,15 @@
+c:\Users\kdrok\Desktop\csharphazirmetotlar\DatetimeveMath\bin\Debug\net9.0\DatetimeveMath.exe
+c:\Users\kdrok\Desktop\csharphazirmetotlar\DatetimeveMath\bin\Debug\net9.0\DatetimeveMath.deps.json
+c:\Users\kdrok\Desktop\csharphazirmetotlar\DatetimeveMath\bin\Debug\net9.0\DatetimeveMath.runtimeconfig.json
+c:\Users\kdrok\Desktop\csharphazirmetotlar\DatetimeveMath\bin\Debug\net9.0\DatetimeveMath.dll
+c:\Users\kdrok\Desktop\csharphazirmetotlar\DatetimeveMath\bin\Debug\net9.0\DatetimeveMath.pdb
+c:\Users\kdrok\Desktop\csharphazirmetotlar\DatetimeveMath\obj\Debug\net9.0\DatetimeveMath.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kdrok\Desktop\csharphazirmetotlar\DatetimeveMath\obj\Debug\net9.0\DatetimeveMath.AssemblyInfoInputs.cache
+c:\Users\kdrok\Desktop\csharphazirmetotlar\DatetimeveMath\obj\Debug\net9.0\DatetimeveMath.AssemblyInfo.cs
+c:\Users\kdrok\Desktop\csharphazirmetotlar\DatetimeveMath\obj\Debug\net9.0\DatetimeveMath.csproj.CoreCompileInputs.cache
+c:\Users\kdrok\Desktop\csharphazirmetotlar\DatetimeveMath\obj\Debug\net9.0\DatetimeveMath.sourcelink.json
+c:\Users\kdrok\Desktop\csharphazirmetotlar\DatetimeveMath\obj\Debug\net9.0\DatetimeveMath.dll
+c:\Users\kdrok\Desktop\csharphazirmetotlar\DatetimeveMath\obj\Debug\net9.0\refint\DatetimeveMath.dll
+c:\Users\kdrok\Desktop\csharphazirmetotlar\DatetimeveMath\obj\Debug\net9.0\DatetimeveMath.pdb
+c:\Users\kdrok\Desktop\csharphazirmetotlar\DatetimeveMath\obj\Debug\net9.0\DatetimeveMath.genruntimeconfig.cache
+c:\Users\kdrok\Desktop\csharphazirmetotlar\DatetimeveMath\obj\Debug\net9.0\ref\DatetimeveMath.dll

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("csharphazirmetotlar")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DatetimeveMath")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75a6fe9b86b49190ee53992adc2caae07857c325")]
-[assembly: System.Reflection.AssemblyProductAttribute("csharphazirmetotlar")]
-[assembly: System.Reflection.AssemblyTitleAttribute("csharphazirmetotlar")]
+[assembly: System.Reflection.AssemblyProductAttribute("DatetimeveMath")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DatetimeveMath")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
